@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;itjobs06/src/com/kh/member/controller/GoggleLoginServlet.java&apos; to &apos;GoogleLoginServlet.java&apos;" description="Rename resource &apos;GoggleLoginServlet.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/member/controller/GoggleLoginServlet.java" name="GoogleLoginServlet.java" stamp="1571904938962" updateReferences="true"/>
+</session>

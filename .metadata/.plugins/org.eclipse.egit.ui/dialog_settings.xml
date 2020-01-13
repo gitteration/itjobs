@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="style=&quot;background:gray;&quot;"/>
+		<item value="nickDiv.html(&apos;사용가능&apos;).attr(&apos;style&apos;,&apos;color:green&apos;);"/>
+		<item value="style=&quot;margin-top:15px;&quot;"/>
+		<item value="https://github.com/dooyounglee/itjobs01"/>
+		<item value="https://github.com/dooyounglee"/>
+		<item value="https://github.com/dooyounglee/testitjobs"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="gitteration &lt;55491073+gitteration@users.noreply.github.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="gitteration &lt;55491073+gitteration@users.noreply.github.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="22"/>
+		<item key="DIALOG_Y_ORIGIN" value="325"/>
+		<item key="DIALOG_WIDTH" value="946"/>
+		<item key="DIALOG_HEIGHT" value="462"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="499,500"/>
+		<item key="sortItemState" value="true"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\이상화\git\itjobs01\.git">
+			<item value="false"/>
+			<item value="gitteration &lt;55491073+gitteration@users.noreply.github.com&gt;"/>
+			<item value="asd"/>
+			<item value="gitteration &lt;55491073+gitteration@users.noreply.github.com&gt;"/>
+			<item value="f2cbe0a804f7e2dab89d6afd1105fed9433bd430"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\git\itjobs01\.git">
+			<item value="false"/>
+			<item value="gitterlation &lt;55491073+gitteration@users.noreply.github.com&gt;"/>
+			<item value="상화 - 로그인, 회원가입 구현성공"/>
+			<item value="gitterlation &lt;55491073+gitteration@users.noreply.github.com&gt;"/>
+			<item value="219b04db354b4394b043f8e63d9fedd6e6bd6426"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="300"/>
+		<item key="DIALOG_Y_ORIGIN" value="192"/>
+		<item key="DIALOG_WIDTH" value="668"/>
+		<item key="DIALOG_HEIGHT" value="481"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>

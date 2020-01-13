@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;itjobs06/WebContent/views/login/navercallback.jsp&apos; to &apos;naverLogin.jsp&apos;" description="Rename resource &apos;navercallback.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/views/login/navercallback.jsp" name="naverLogin.jsp" stamp="1571314300248" updateReferences="true"/>
+</session>
